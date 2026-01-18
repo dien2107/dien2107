@@ -1,7 +1,10 @@
 <!-- 💫 Profile README for Nguyen Thanh Dien -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=00A8E8&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Nguyen+Thanh+Dien+%F0%9F%91%8B;BE+Developer+Intern+%7C+Java+Spring+Boot+%26+ASP.NET+Core;Passionate+about+Clean+Architecture+and+Scalable+Systems" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=00A8E8&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Nguyen+Thanh+Dien+%F0%9F%91%8B;BE+Developer+Intern;Java+Spring+Boot+%26+ASP.NET+Core;Passionate+about+Clean+Architecture+and+Scalable+Systems"
+    alt="Typing SVG"
+  />
 </p>
 
 ---
