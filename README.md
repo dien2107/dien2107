@@ -10,7 +10,7 @@
 ---
 
 ## 🧑‍💻 About Me
-🎯 **Backend Developer Intern**  
+🎯 **Backend Developer**  
 💡 Passionate about building scalable, maintainable systems using **Java Spring Boot** and **ASP.NET Core**.  
 📚 Continuously learning about **Microservices**, **Distributed Systems**, and **Clean Architecture**.  
 📍 Based in **Ho Chi Minh City, Vietnam**  
